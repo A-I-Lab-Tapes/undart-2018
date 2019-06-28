@@ -1,0 +1,51 @@
+# /data/home/font/! README bang SAIL font hacking
+# --------------------------------------------------------------------------------
+#  xgp_convert.c is driven by the files batch_fnt and batch_xgp
+# --------------------------------------------------------------------------------
+
+        xgp_convert.c
+                batch_fnt
+                batch_xgp
+
+# Typical command line ( workstation work8 )
+# then use image magick "convert" command to concatenat PBM pages into PDF image
+# see man page for convert / there are many options
+
+# move the PDF over to one of the Apple systems to apply ADOBE acrobat steps
+# to convert image PDF into OCR'd searchable text PDF / Archival ( with fonts included )
+# Re-consider what image bit density and font set we wish to embalm this material with.
+
+        time xgp_convert 1>stdout 2>stderr
+
+        cd /XGP/prg/prj/filnam.xgp/
+
+        convert *.pbm whatever.xgp.pdf
+
+# The I/O paths are specified in the batch files.
+#
+# The input files for FNT and XGP are data8 format
+#       the symbolic link /8 --> /large/8 which has
+#       16 GBytes of data8 on each workstation work7, work8, work9
+#       16 GBytes in 527,500. files    in 9269 directories     for 1721 PRG codes.
+#
+# The output pathnames for /AIM  /BOOK  /SAILON  /THESIS  /XGP point into large partitions
+# for storing the intermediate portable-bit-map files ( *.pbm)
+#       for each XGP page
+#       for each filnam dot XGP
+#       for each PRG code
+#
+# --------------------------------------------------------------------------------
+
+# other
+        xgpfntp1.c
+        8XGP-to-MARKUP-utf8.c
+#
+        convert_FNT_into_BDF.pl
+
+# AIM
+# BOOK
+# SAILON
+# THESIS
+# XGP
+
+        

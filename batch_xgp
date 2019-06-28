@@ -1,0 +1,1720 @@
+mkdir -p /XGP/kvl/doc/oman.xgp
+/8/kvl/doc/oman.xgp
+mkdir -p /XGP/kvl/doc/pref.xgp
+/8/kvl/doc/pref.xgp
+mkdir -p /XGP/kvl/doc/title.xgp
+/8/kvl/doc/title.xgp
+quit
+
+mkdir -p /XGP/clt/1/aim1.xgp
+/8/clt/1/aim1.xgp
+mkdir -p /XGP/clt/1/all.xgp
+/8/clt/1/all.xgp
+mkdir -p /XGP/clt/1/browse.xgp
+/8/clt/1/browse.xgp
+mkdir -p /XGP/clt/1/ches.xgp
+/8/clt/1/ches.xgp
+mkdir -p /XGP/clt/1/circum.xgp
+/8/clt/1/circum.xgp
+mkdir -p /XGP/clt/1/engram.xgp
+/8/clt/1/engram.xgp
+mkdir -p /XGP/clt/1/forum.xgp
+/8/clt/1/forum.xgp
+mkdir -p /XGP/clt/1/fourm.xgp
+/8/clt/1/fourm.xgp
+mkdir -p /XGP/clt/1/games.xgp
+/8/clt/1/games.xgp
+mkdir -p /XGP/clt/1/john.xgp
+/8/clt/1/john.xgp
+mkdir -p /XGP/clt/1/lisp.xgp
+/8/clt/1/lisp.xgp
+mkdir -p /XGP/clt/1/lspch1.xgp
+/8/clt/1/lspch1.xgp
+mkdir -p /XGP/clt/1/lspch2.xgp
+/8/clt/1/lspch2.xgp
+mkdir -p /XGP/clt/1/lspch4.xgp
+/8/clt/1/lspch4.xgp
+mkdir -p /XGP/clt/1/lspdoc.xgp
+/8/clt/1/lspdoc.xgp
+mkdir -p /XGP/clt/1/lspexp.xgp
+/8/clt/1/lspexp.xgp
+mkdir -p /XGP/clt/1/lsplot.xgp
+/8/clt/1/lsplot.xgp
+mkdir -p /XGP/clt/1/lsp.xgp
+/8/clt/1/lsp.xgp
+mkdir -p /XGP/clt/1/micro.xgp
+/8/clt/1/micro.xgp
+mkdir -p /XGP/clt/1/pub.xgp
+/8/clt/1/pub.xgp
+mkdir -p /XGP/clt/1/xlet.xgp
+/8/clt/1/xlet.xgp
+mkdir -p /XGP/clt/206/ans2.xgp
+/8/clt/206/ans2.xgp
+mkdir -p /XGP/clt/206/clean.xgp
+/8/clt/206/clean.xgp
+mkdir -p /XGP/clt/206/cost.xgp
+/8/clt/206/cost.xgp
+mkdir -p /XGP/clt/206/fact.xgp
+/8/clt/206/fact.xgp
+mkdir -p /XGP/clt/206/funs1.xgp
+/8/clt/206/funs1.xgp
+mkdir -p /XGP/clt/206/graph.xgp
+/8/clt/206/graph.xgp
+mkdir -p /XGP/clt/206/help.xgp
+/8/clt/206/help.xgp
+mkdir -p /XGP/clt/206/hmwrk1.xgp
+/8/clt/206/hmwrk1.xgp
+mkdir -p /XGP/clt/206/homwrk.xgp
+/8/clt/206/homwrk.xgp
+mkdir -p /XGP/clt/206/lspch2.xgp
+/8/clt/206/lspch2.xgp
+mkdir -p /XGP/clt/206/lspch3.xgp
+/8/clt/206/lspch3.xgp
+mkdir -p /XGP/clt/206/lsplot.xgp
+/8/clt/206/lsplot.xgp
+mkdir -p /XGP/clt/206/mtsoln.xgp
+/8/clt/206/mtsoln.xgp
+mkdir -p /XGP/clt/206/prjf77.xgp
+/8/clt/206/prjf77.xgp
+mkdir -p /XGP/clt/fnt/fonta.xgp
+/8/clt/fnt/fonta.xgp
+mkdir -p /XGP/clt/fol/minima.xgp
+/8/clt/fol/minima.xgp
+mkdir -p /XGP/clt/lsp/absntx.xgp
+/8/clt/lsp/absntx.xgp
+mkdir -p /XGP/clt/lsp/ch1.xgp
+/8/clt/lsp/ch1.xgp
+mkdir -p /XGP/clt/lsp/ch2sc6.xgp
+/8/clt/lsp/ch2sc6.xgp
+mkdir -p /XGP/clt/lsp/compil.xgp
+/8/clt/lsp/compil.xgp
+mkdir -p /XGP/clt/lsp/comput.xgp
+/8/clt/lsp/comput.xgp
+mkdir -p /XGP/clt/lsp/exerci.xgp
+/8/clt/lsp/exerci.xgp
+mkdir -p /XGP/clt/lsp/extend.xgp
+/8/clt/lsp/extend.xgp
+mkdir -p /XGP/clt/lsp/folapx.xgp
+/8/clt/lsp/folapx.xgp
+mkdir -p /XGP/clt/lsp/folisp.xgp
+/8/clt/lsp/folisp.xgp
+mkdir -p /XGP/clt/lsp/graph.xgp
+/8/clt/lsp/graph.xgp
+mkdir -p /XGP/clt/lsp/impure.xgp
+/8/clt/lsp/impure.xgp
+mkdir -p /XGP/clt/lsp/intro.xgp
+/8/clt/lsp/intro.xgp
+mkdir -p /XGP/clt/lsp/lisprg.xgp
+/8/clt/lsp/lisprg.xgp
+mkdir -p /XGP/clt/lsp/lspap1.xgp
+/8/clt/lsp/lspap1.xgp
+mkdir -p /XGP/clt/lsp/lspap2.xgp
+/8/clt/lsp/lspap2.xgp
+mkdir -p /XGP/clt/lsp/lspap3.xgp
+/8/clt/lsp/lspap3.xgp
+mkdir -p /XGP/clt/lsp/lspbib.xgp
+/8/clt/lsp/lspbib.xgp
+mkdir -p /XGP/clt/lsp/lspch1.xgp
+/8/clt/lsp/lspch1.xgp
+mkdir -p /XGP/clt/lsp/lspch2.xgp
+/8/clt/lsp/lspch2.xgp
+mkdir -p /XGP/clt/lsp/lspch3.xgp
+/8/clt/lsp/lspch3.xgp
+mkdir -p /XGP/clt/lsp/lspch4.xgp
+/8/clt/lsp/lspch4.xgp
+mkdir -p /XGP/clt/lsp/lspch5.xgp
+/8/clt/lsp/lspch5.xgp
+mkdir -p /XGP/clt/lsp/lspdc1.xgp
+/8/clt/lsp/lspdc1.xgp
+mkdir -p /XGP/clt/lsp/lspdoc.xgp
+/8/clt/lsp/lspdoc.xgp
+mkdir -p /XGP/clt/lsp/lspexp.xgp
+/8/clt/lsp/lspexp.xgp
+mkdir -p /XGP/clt/lsp/lspp19.xgp
+/8/clt/lsp/lspp19.xgp
+mkdir -p /XGP/clt/lsp/provin.xgp
+/8/clt/lsp/provin.xgp
+mkdir -p /XGP/clt/lsp/readin.xgp
+/8/clt/lsp/readin.xgp
+mkdir -p /XGP/clt/lsp/recfun.xgp
+/8/clt/lsp/recfun.xgp
+mkdir -p /XGP/clt/lsp/search.xgp
+/8/clt/lsp/search.xgp
+mkdir -p /XGP/clt/lsp/writin.xgp
+/8/clt/lsp/writin.xgp
+mkdir -p /XGP/jmc/1/biojmc.xgp
+/8/jmc/1/biojmc.xgp
+mkdir -p /XGP/jmc/1/cbcl.xgp
+/8/jmc/1/cbcl.xgp
+mkdir -p /XGP/jmc/1/chemem.xgp
+/8/jmc/1/chemem.xgp
+mkdir -p /XGP/jmc/1/circum.xgp
+/8/jmc/1/circum.xgp
+mkdir -p /XGP/jmc/1/civlib.xgp
+/8/jmc/1/civlib.xgp
+mkdir -p /XGP/jmc/1/common.xgp
+/8/jmc/1/common.xgp
+mkdir -p /XGP/jmc/1/daily.xgp
+/8/jmc/1/daily.xgp
+mkdir -p /XGP/jmc/1/docdil.xgp
+/8/jmc/1/docdil.xgp
+mkdir -p /XGP/jmc/1/ebos.xgp
+/8/jmc/1/ebos.xgp
+mkdir -p /XGP/jmc/1/elepha.xgp
+/8/jmc/1/elepha.xgp
+mkdir -p /XGP/jmc/1/emigra.xgp
+/8/jmc/1/emigra.xgp
+mkdir -p /XGP/jmc/1/exotic.xgp
+/8/jmc/1/exotic.xgp
+mkdir -p /XGP/jmc/1/fa.xgp
+/8/jmc/1/fa.xgp
+mkdir -p /XGP/jmc/1/flib.xgp
+/8/jmc/1/flib.xgp
+mkdir -p /XGP/jmc/1/fly.xgp
+/8/jmc/1/fly.xgp
+mkdir -p /XGP/jmc/1/foo.xgp
+/8/jmc/1/foo.xgp
+mkdir -p /XGP/jmc/1/hoter.xgp
+/8/jmc/1/hoter.xgp
+mkdir -p /XGP/jmc/1/iii.xgp
+/8/jmc/1/iii.xgp
+mkdir -p /XGP/jmc/1/ijcai.xgp
+/8/jmc/1/ijcai.xgp
+mkdir -p /XGP/jmc/1/kent.xgp
+/8/jmc/1/kent.xgp
+mkdir -p /XGP/jmc/1/librar.xgp
+/8/jmc/1/librar.xgp
+mkdir -p /XGP/jmc/1/mental.xgp
+/8/jmc/1/mental.xgp
+mkdir -p /XGP/jmc/1/mrhug.xgp
+/8/jmc/1/mrhug.xgp
+mkdir -p /XGP/jmc/1/notes.xgp
+/8/jmc/1/notes.xgp
+mkdir -p /XGP/jmc/1/opinio.xgp
+/8/jmc/1/opinio.xgp
+mkdir -p /XGP/jmc/1/philpa.xgp
+/8/jmc/1/philpa.xgp
+mkdir -p /XGP/jmc/1/proble.xgp
+/8/jmc/1/proble.xgp
+mkdir -p /XGP/jmc/1/psycho.xgp
+/8/jmc/1/psycho.xgp
+mkdir -p /XGP/jmc/1/relati.xgp
+/8/jmc/1/relati.xgp
+mkdir -p /XGP/jmc/1/rplaca.xgp
+/8/jmc/1/rplaca.xgp
+mkdir -p /XGP/jmc/1/search.xgp
+/8/jmc/1/search.xgp
+mkdir -p /XGP/jmc/1/syntax.xgp
+/8/jmc/1/syntax.xgp
+mkdir -p /XGP/jmc/1/takeuc.xgp
+/8/jmc/1/takeuc.xgp
+mkdir -p /XGP/jmc/1/thesis.xgp
+/8/jmc/1/thesis.xgp
+mkdir -p /XGP/jmc/1/tough.xgp
+/8/jmc/1/tough.xgp
+mkdir -p /XGP/jmc/1/truly.xgp
+/8/jmc/1/truly.xgp
+mkdir -p /XGP/jmc/1/von.xgp
+/8/jmc/1/von.xgp
+mkdir -p /XGP/jmc/1/weizen.xgp
+/8/jmc/1/weizen.xgp
+mkdir -p /XGP/jmc/206/fin.xgp
+/8/jmc/206/fin.xgp
+mkdir -p /XGP/jmc/206/foo.xgp
+/8/jmc/206/foo.xgp
+mkdir -p /XGP/jmc/206/john.xgp
+/8/jmc/206/john.xgp
+mkdir -p /XGP/jmc/206/midf76.xgp
+/8/jmc/206/midf76.xgp
+mkdir -p /XGP/jmc/206/midter.xgp
+/8/jmc/206/midter.xgp
+mkdir -p /XGP/jmc/226/a.xgp
+/8/jmc/226/a.xgp
+mkdir -p /XGP/jmc/226/foo.xgp
+/8/jmc/226/foo.xgp
+mkdir -p /XGP/jmc/226/f.xgp
+/8/jmc/226/f.xgp
+mkdir -p /XGP/jmc/2/final.xgp
+/8/jmc/2/final.xgp
+mkdir -p /XGP/jmc/2/foo.xgp
+/8/jmc/2/foo.xgp
+mkdir -p /XGP/jmc/2/l.xgp
+/8/jmc/2/l.xgp
+mkdir -p /XGP/jmc/boo/book.xgp
+/8/jmc/boo/book.xgp
+mkdir -p /XGP/jmc/boo/comput.xgp
+/8/jmc/boo/comput.xgp
+mkdir -p /XGP/jmc/boo/graph.xgp
+/8/jmc/boo/graph.xgp
+mkdir -p /XGP/jmc/boo/readin.xgp
+/8/jmc/boo/readin.xgp
+mkdir -p /XGP/jmc/cur/admit.xgp
+/8/jmc/cur/admit.xgp
+mkdir -p /XGP/jmc/cur/aiorg.xgp
+/8/jmc/cur/aiorg.xgp
+mkdir -p /XGP/jmc/cur/energy.xgp
+/8/jmc/cur/energy.xgp
+mkdir -p /XGP/jmc/cur/e.xgp
+/8/jmc/cur/e.xgp
+mkdir -p /XGP/jmc/cur/f00.xgp
+/8/jmc/cur/f00.xgp
+mkdir -p /XGP/jmc/cur/foo.xgp
+/8/jmc/cur/foo.xgp
+mkdir -p /XGP/jmc/cur/f.xgp
+/8/jmc/cur/f.xgp
+mkdir -p /XGP/jmc/cur/head.xgp
+/8/jmc/cur/head.xgp
+mkdir -p /XGP/jmc/cur/how.xgp
+/8/jmc/cur/how.xgp
+mkdir -p /XGP/jmc/cur/ijcai.xgp
+/8/jmc/cur/ijcai.xgp
+mkdir -p /XGP/jmc/cur/memory.xgp
+/8/jmc/cur/memory.xgp
+mkdir -p /XGP/jmc/cur/news75.xgp
+/8/jmc/cur/news75.xgp
+mkdir -p /XGP/jmc/cur/relati.xgp
+/8/jmc/cur/relati.xgp
+mkdir -p /XGP/jmc/cur/repres.xgp
+/8/jmc/cur/repres.xgp
+mkdir -p /XGP/jmc/cur/suffic.xgp
+/8/jmc/cur/suffic.xgp
+mkdir -p /XGP/jmc/cur/s.xgp
+/8/jmc/cur/s.xgp
+mkdir -p /XGP/jmc/dia/dial78.xgp
+/8/jmc/dia/dial78.xgp
+mkdir -p /XGP/jmc/dia/dialne.xgp
+/8/jmc/dia/dialne.xgp
+mkdir -p /XGP/jmc/dia/press.xgp
+/8/jmc/dia/press.xgp
+mkdir -p /XGP/jmc/e76/ch1n2.xgp
+/8/jmc/e76/ch1n2.xgp
+mkdir -p /XGP/jmc/e76/concep.xgp
+/8/jmc/e76/concep.xgp
+mkdir -p /XGP/jmc/e76/dialne.xgp
+/8/jmc/e76/dialne.xgp
+mkdir -p /XGP/jmc/e76/foo.xgp
+/8/jmc/e76/foo.xgp
+mkdir -p /XGP/jmc/e76/help.xgp
+/8/jmc/e76/help.xgp
+mkdir -p /XGP/jmc/e76/lisp.xgp
+/8/jmc/e76/lisp.xgp
+mkdir -p /XGP/jmc/e76/mental.xgp
+/8/jmc/e76/mental.xgp
+mkdir -p /XGP/jmc/e76/mscopy.xgp
+/8/jmc/e76/mscopy.xgp
+mkdir -p /XGP/jmc/e76/prejud.xgp
+/8/jmc/e76/prejud.xgp
+mkdir -p /XGP/jmc/e76/times.xgp
+/8/jmc/e76/times.xgp
+mkdir -p /XGP/jmc/e76/title.xgp
+/8/jmc/e76/title.xgp
+mkdir -p /XGP/jmc/e76/truly.xgp
+/8/jmc/e76/truly.xgp
+mkdir -p /XGP/jmc/e77/comman.xgp
+/8/jmc/e77/comman.xgp
+mkdir -p /XGP/jmc/e77/death.xgp
+/8/jmc/e77/death.xgp
+mkdir -p /XGP/jmc/e77/dogmin.xgp
+/8/jmc/e77/dogmin.xgp
+mkdir -p /XGP/jmc/e77/ijcai.xgp
+/8/jmc/e77/ijcai.xgp
+mkdir -p /XGP/jmc/e77/impure.xgp
+/8/jmc/e77/impure.xgp
+mkdir -p /XGP/jmc/e77/mailad.xgp
+/8/jmc/e77/mailad.xgp
+mkdir -p /XGP/jmc/e77/mail.xgp
+/8/jmc/e77/mail.xgp
+mkdir -p /XGP/jmc/e77/parado.xgp
+/8/jmc/e77/parado.xgp
+mkdir -p /XGP/jmc/e78/crash.xgp
+/8/jmc/e78/crash.xgp
+mkdir -p /XGP/jmc/e78/deal.xgp
+/8/jmc/e78/deal.xgp
+mkdir -p /XGP/jmc/e78/ijcai.xgp
+/8/jmc/e78/ijcai.xgp
+mkdir -p /XGP/jmc/e78/know.xgp
+/8/jmc/e78/know.xgp
+mkdir -p /XGP/jmc/e78/poster.xgp
+/8/jmc/e78/poster.xgp
+mkdir -p /XGP/jmc/e78/reply.xgp
+/8/jmc/e78/reply.xgp
+mkdir -p /XGP/jmc/e78/takeuc.xgp
+/8/jmc/e78/takeuc.xgp
+mkdir -p /XGP/jmc/e78/verifi.xgp
+/8/jmc/e78/verifi.xgp
+mkdir -p /XGP/jmc/e79/invent.xgp
+/8/jmc/e79/invent.xgp
+mkdir -p /XGP/jmc/e79/searle.xgp
+/8/jmc/e79/searle.xgp
+mkdir -p /XGP/jmc/e80/common.xgp
+/8/jmc/e80/common.xgp
+mkdir -p /XGP/jmc/e80/cyclic.xgp
+/8/jmc/e80/cyclic.xgp
+mkdir -p /XGP/jmc/e80/nsf.xgp
+/8/jmc/e80/nsf.xgp
+mkdir -p /XGP/jmc/e80/ocr.xgp
+/8/jmc/e80/ocr.xgp
+mkdir -p /XGP/jmc/e83/boxes.xgp
+/8/jmc/e83/boxes.xgp
+mkdir -p /XGP/jmc/e83/fifth.xgp
+/8/jmc/e83/fifth.xgp
+mkdir -p /XGP/jmc/e83/flib.xgp
+/8/jmc/e83/flib.xgp
+mkdir -p /XGP/jmc/e83/librar.xgp
+/8/jmc/e83/librar.xgp
+mkdir -p /XGP/jmc/e83/psycho.xgp
+/8/jmc/e83/psycho.xgp
+mkdir -p /XGP/jmc/e86/hoter.xgp
+/8/jmc/e86/hoter.xgp
+mkdir -p /XGP/jmc/ess/ailab.xgp
+/8/jmc/ess/ailab.xgp
+mkdir -p /XGP/jmc/ess/artifi.xgp
+/8/jmc/ess/artifi.xgp
+mkdir -p /XGP/jmc/ess/car.xgp
+/8/jmc/ess/car.xgp
+mkdir -p /XGP/jmc/ess/concep.xgp
+/8/jmc/ess/concep.xgp
+mkdir -p /XGP/jmc/ess/cov.xgp
+/8/jmc/ess/cov.xgp
+mkdir -p /XGP/jmc/ess/crime.xgp
+/8/jmc/ess/crime.xgp
+mkdir -p /XGP/jmc/ess/cs.xgp
+/8/jmc/ess/cs.xgp
+mkdir -p /XGP/jmc/ess/c.xgp
+/8/jmc/ess/c.xgp
+mkdir -p /XGP/jmc/ess/derive.xgp
+/8/jmc/ess/derive.xgp
+mkdir -p /XGP/jmc/ess/docdil.xgp
+/8/jmc/ess/docdil.xgp
+mkdir -p /XGP/jmc/ess/en.xgp
+/8/jmc/ess/en.xgp
+mkdir -p /XGP/jmc/ess/e.xgp
+/8/jmc/ess/e.xgp
+mkdir -p /XGP/jmc/ess/filman.xgp
+/8/jmc/ess/filman.xgp
+mkdir -p /XGP/jmc/ess/foo.xgp
+/8/jmc/ess/foo.xgp
+mkdir -p /XGP/jmc/ess/hoter.xgp
+/8/jmc/ess/hoter.xgp
+mkdir -p /XGP/jmc/ess/how.xgp
+/8/jmc/ess/how.xgp
+mkdir -p /XGP/jmc/ess/medica.xgp
+/8/jmc/ess/medica.xgp
+mkdir -p /XGP/jmc/ess/minima.xgp
+/8/jmc/ess/minima.xgp
+mkdir -p /XGP/jmc/ess/monop.xgp
+/8/jmc/ess/monop.xgp
+mkdir -p /XGP/jmc/ess/m.xgp
+/8/jmc/ess/m.xgp
+mkdir -p /XGP/jmc/ess/names.xgp
+/8/jmc/ess/names.xgp
+mkdir -p /XGP/jmc/ess/r.xgp
+/8/jmc/ess/r.xgp
+mkdir -p /XGP/jmc/ess/shuey.xgp
+/8/jmc/ess/shuey.xgp
+mkdir -p /XGP/jmc/ess/spindl.xgp
+/8/jmc/ess/spindl.xgp
+mkdir -p /XGP/jmc/ess/tel.xgp
+/8/jmc/ess/tel.xgp
+mkdir -p /XGP/jmc/ess/t.xgp
+/8/jmc/ess/t.xgp
+mkdir -p /XGP/jmc/f75/ijcai.xgp
+/8/jmc/f75/ijcai.xgp
+mkdir -p /XGP/jmc/f75/inters.xgp
+/8/jmc/f75/inters.xgp
+mkdir -p /XGP/jmc/f75/mental.xgp
+/8/jmc/f75/mental.xgp
+mkdir -p /XGP/jmc/f76/concep.xgp
+/8/jmc/f76/concep.xgp
+mkdir -p /XGP/jmc/f76/csddis.xgp
+/8/jmc/f76/csddis.xgp
+mkdir -p /XGP/jmc/f76/denico.xgp
+/8/jmc/f76/denico.xgp
+mkdir -p /XGP/jmc/f76/dertou.xgp
+/8/jmc/f76/dertou.xgp
+mkdir -p /XGP/jmc/f76/fernba.xgp
+/8/jmc/f76/fernba.xgp
+mkdir -p /XGP/jmc/f76/game.xgp
+/8/jmc/f76/game.xgp
+mkdir -p /XGP/jmc/f76/inst.xgp
+/8/jmc/f76/inst.xgp
+mkdir -p /XGP/jmc/f76/lickl2.xgp
+/8/jmc/f76/lickl2.xgp
+mkdir -p /XGP/jmc/f76/lickli.xgp
+/8/jmc/f76/lickli.xgp
+mkdir -p /XGP/jmc/f76/mental.xgp
+/8/jmc/f76/mental.xgp
+mkdir -p /XGP/jmc/f76/minim2.xgp
+/8/jmc/f76/minim2.xgp
+mkdir -p /XGP/jmc/f76/minima.xgp
+/8/jmc/f76/minima.xgp
+mkdir -p /XGP/jmc/f76/mrhug.xgp
+/8/jmc/f76/mrhug.xgp
+mkdir -p /XGP/jmc/f76/noll.xgp
+/8/jmc/f76/noll.xgp
+mkdir -p /XGP/jmc/f76/noyce.xgp
+/8/jmc/f76/noyce.xgp
+mkdir -p /XGP/jmc/f76/owe.xgp
+/8/jmc/f76/owe.xgp
+mkdir -p /XGP/jmc/f76/patter.xgp
+/8/jmc/f76/patter.xgp
+mkdir -p /XGP/jmc/f76/read.xgp
+/8/jmc/f76/read.xgp
+mkdir -p /XGP/jmc/f76/residu.xgp
+/8/jmc/f76/residu.xgp
+mkdir -p /XGP/jmc/f76/samefr.xgp
+/8/jmc/f76/samefr.xgp
+mkdir -p /XGP/jmc/f76/samef.xgp
+/8/jmc/f76/samef.xgp
+mkdir -p /XGP/jmc/f76/same.xgp
+/8/jmc/f76/same.xgp
+mkdir -p /XGP/jmc/f76/shubik.xgp
+/8/jmc/f76/shubik.xgp
+mkdir -p /XGP/jmc/f76/soluti.xgp
+/8/jmc/f76/soluti.xgp
+mkdir -p /XGP/jmc/f76/term.xgp
+/8/jmc/f76/term.xgp
+mkdir -p /XGP/jmc/f76/theory.xgp
+/8/jmc/f76/theory.xgp
+mkdir -p /XGP/jmc/f76/trans1.xgp
+/8/jmc/f76/trans1.xgp
+mkdir -p /XGP/jmc/f76/trans2.xgp
+/8/jmc/f76/trans2.xgp
+mkdir -p /XGP/jmc/f77/africa.xgp
+/8/jmc/f77/africa.xgp
+mkdir -p /XGP/jmc/f77/aiphil.xgp
+/8/jmc/f77/aiphil.xgp
+mkdir -p /XGP/jmc/f77/cert.xgp
+/8/jmc/f77/cert.xgp
+mkdir -p /XGP/jmc/f77/escape.xgp
+/8/jmc/f77/escape.xgp
+mkdir -p /XGP/jmc/f77/foo.xgp
+/8/jmc/f77/foo.xgp
+mkdir -p /XGP/jmc/f77/hoter.xgp
+/8/jmc/f77/hoter.xgp
+mkdir -p /XGP/jmc/f77/impure.xgp
+/8/jmc/f77/impure.xgp
+mkdir -p /XGP/jmc/f77/lisp.xgp
+/8/jmc/f77/lisp.xgp
+mkdir -p /XGP/jmc/f77/mcpain.xgp
+/8/jmc/f77/mcpain.xgp
+mkdir -p /XGP/jmc/f77/micro.xgp
+/8/jmc/f77/micro.xgp
+mkdir -p /XGP/jmc/f77/midter.xgp
+/8/jmc/f77/midter.xgp
+mkdir -p /XGP/jmc/f77/prob.xgp
+/8/jmc/f77/prob.xgp
+mkdir -p /XGP/jmc/f77/smoke.xgp
+/8/jmc/f77/smoke.xgp
+mkdir -p /XGP/jmc/f78/andrei.xgp
+/8/jmc/f78/andrei.xgp
+mkdir -p /XGP/jmc/f78/concep.xgp
+/8/jmc/f78/concep.xgp
+mkdir -p /XGP/jmc/f78/dreyfu.xgp
+/8/jmc/f78/dreyfu.xgp
+mkdir -p /XGP/jmc/f78/findle.xgp
+/8/jmc/f78/findle.xgp
+mkdir -p /XGP/jmc/f78/first.xgp
+/8/jmc/f78/first.xgp
+mkdir -p /XGP/jmc/f78/term.xgp
+/8/jmc/f78/term.xgp
+mkdir -p /XGP/jmc/f79/abilit.xgp
+/8/jmc/f79/abilit.xgp
+mkdir -p /XGP/jmc/f79/book.xgp
+/8/jmc/f79/book.xgp
+mkdir -p /XGP/jmc/f79/circum.xgp
+/8/jmc/f79/circum.xgp
+mkdir -p /XGP/jmc/f79/israel.xgp
+/8/jmc/f79/israel.xgp
+mkdir -p /XGP/jmc/f79/locke.xgp
+/8/jmc/f79/locke.xgp
+mkdir -p /XGP/jmc/f80/aim1.xgp
+/8/jmc/f80/aim1.xgp
+mkdir -p /XGP/jmc/f80/counte.xgp
+/8/jmc/f80/counte.xgp
+mkdir -p /XGP/jmc/f80/cyclic.xgp
+/8/jmc/f80/cyclic.xgp
+mkdir -p /XGP/jmc/f80/exotic.xgp
+/8/jmc/f80/exotic.xgp
+mkdir -p /XGP/jmc/f80/hoter.xgp
+/8/jmc/f80/hoter.xgp
+mkdir -p /XGP/jmc/f80/m.xgp
+/8/jmc/f80/m.xgp
+mkdir -p /XGP/jmc/f80/proj.xgp
+/8/jmc/f80/proj.xgp
+mkdir -p /XGP/jmc/f80/sigma.xgp
+/8/jmc/f80/sigma.xgp
+mkdir -p /XGP/jmc/f80/slide.xgp
+/8/jmc/f80/slide.xgp
+mkdir -p /XGP/jmc/f81/final.xgp
+/8/jmc/f81/final.xgp
+mkdir -p /XGP/jmc/f81/ijcai.xgp
+/8/jmc/f81/ijcai.xgp
+mkdir -p /XGP/jmc/f81/midter.xgp
+/8/jmc/f81/midter.xgp
+mkdir -p /XGP/jmc/f83/academ.xgp
+/8/jmc/f83/academ.xgp
+mkdir -p /XGP/jmc/f83/block2.xgp
+/8/jmc/f83/block2.xgp
+mkdir -p /XGP/jmc/f83/circum.xgp
+/8/jmc/f83/circum.xgp
+mkdir -p /XGP/jmc/f83/common.xgp
+/8/jmc/f83/common.xgp
+mkdir -p /XGP/jmc/f83/fifth.xgp
+/8/jmc/f83/fifth.xgp
+mkdir -p /XGP/jmc/f83/final.xgp
+/8/jmc/f83/final.xgp
+mkdir -p /XGP/jmc/f83/foo.xgp
+/8/jmc/f83/foo.xgp
+mkdir -p /XGP/jmc/f83/hoover.xgp
+/8/jmc/f83/hoover.xgp
+mkdir -p /XGP/jmc/f83/lectur.xgp
+/8/jmc/f83/lectur.xgp
+mkdir -p /XGP/jmc/f83/midter.xgp
+/8/jmc/f83/midter.xgp
+mkdir -p /XGP/jmc/f83/test.xgp
+/8/jmc/f83/test.xgp
+mkdir -p /XGP/jmc/f84/energy.xgp
+/8/jmc/f84/energy.xgp
+mkdir -p /XGP/jmc/let/abdali.xgp
+/8/jmc/let/abdali.xgp
+mkdir -p /XGP/jmc/let/abelso.xgp
+/8/jmc/let/abelso.xgp
+mkdir -p /XGP/jmc/let/abraha.xgp
+/8/jmc/let/abraha.xgp
+mkdir -p /XGP/jmc/let/abrams.xgp
+/8/jmc/let/abrams.xgp
+mkdir -p /XGP/jmc/let/abram.xgp
+/8/jmc/let/abram.xgp
+mkdir -p /XGP/jmc/let/ackema.xgp
+/8/jmc/let/ackema.xgp
+mkdir -p /XGP/jmc/let/acm.xgp
+/8/jmc/let/acm.xgp
+mkdir -p /XGP/jmc/let/adams.xgp
+/8/jmc/let/adams.xgp
+mkdir -p /XGP/jmc/let/admit.xgp
+/8/jmc/let/admit.xgp
+mkdir -p /XGP/jmc/let/aiello.xgp
+/8/jmc/let/aiello.xgp
+mkdir -p /XGP/jmc/let/aim1.xgp
+/8/jmc/let/aim1.xgp
+mkdir -p /XGP/jmc/let/aizerm.xgp
+/8/jmc/let/aizerm.xgp
+mkdir -p /XGP/jmc/let/akeman.xgp
+/8/jmc/let/akeman.xgp
+mkdir -p /XGP/jmc/let/alben.xgp
+/8/jmc/let/alben.xgp
+mkdir -p /XGP/jmc/let/alm.xgp
+/8/jmc/let/alm.xgp
+mkdir -p /XGP/jmc/let/alward.xgp
+/8/jmc/let/alward.xgp
+mkdir -p /XGP/jmc/let/americ.xgp
+/8/jmc/let/americ.xgp
+mkdir -p /XGP/jmc/let/ampex.xgp
+/8/jmc/let/ampex.xgp
+mkdir -p /XGP/jmc/let/analog.xgp
+/8/jmc/let/analog.xgp
+mkdir -p /XGP/jmc/let/andrei.xgp
+/8/jmc/let/andrei.xgp
+mkdir -p /XGP/jmc/let/announ.xgp
+/8/jmc/let/announ.xgp
+mkdir -p /XGP/jmc/let/armer.xgp
+/8/jmc/let/armer.xgp
+mkdir -p /XGP/jmc/let/arpa.xgp
+/8/jmc/let/arpa.xgp
+mkdir -p /XGP/jmc/let/ashenh.xgp
+/8/jmc/let/ashenh.xgp
+mkdir -p /XGP/jmc/let/atkins.xgp
+/8/jmc/let/atkins.xgp
+mkdir -p /XGP/jmc/let/attard.xgp
+/8/jmc/let/attard.xgp
+mkdir -p /XGP/jmc/let/a.xgp
+/8/jmc/let/a.xgp
+mkdir -p /XGP/jmc/let/barret.xgp
+/8/jmc/let/barret.xgp
+mkdir -p /XGP/jmc/let/beckma.xgp
+/8/jmc/let/beckma.xgp
+mkdir -p /XGP/jmc/let/bell.xgp
+/8/jmc/let/bell.xgp
+mkdir -p /XGP/jmc/let/benefi.xgp
+/8/jmc/let/benefi.xgp
+mkdir -p /XGP/jmc/let/bernfi.xgp
+/8/jmc/let/bernfi.xgp
+mkdir -p /XGP/jmc/let/bethe.xgp
+/8/jmc/let/bethe.xgp
+mkdir -p /XGP/jmc/let/binfor.xgp
+/8/jmc/let/binfor.xgp
+mkdir -p /XGP/jmc/let/biojmc.xgp
+/8/jmc/let/biojmc.xgp
+mkdir -p /XGP/jmc/let/bio.xgp
+/8/jmc/let/bio.xgp
+mkdir -p /XGP/jmc/let/blackb.xgp
+/8/jmc/let/blackb.xgp
+mkdir -p /XGP/jmc/let/black.xgp
+/8/jmc/let/black.xgp
+mkdir -p /XGP/jmc/let/blaine.xgp
+/8/jmc/let/blaine.xgp
+mkdir -p /XGP/jmc/let/blattn.xgp
+/8/jmc/let/blattn.xgp
+mkdir -p /XGP/jmc/let/blatt.xgp
+/8/jmc/let/blatt.xgp
+mkdir -p /XGP/jmc/let/bledso.xgp
+/8/jmc/let/bledso.xgp
+mkdir -p /XGP/jmc/let/bloom.xgp
+/8/jmc/let/bloom.xgp
+mkdir -p /XGP/jmc/let/bobrow.xgp
+/8/jmc/let/bobrow.xgp
+mkdir -p /XGP/jmc/let/bowen.xgp
+/8/jmc/let/bowen.xgp
+mkdir -p /XGP/jmc/let/boyerm.xgp
+/8/jmc/let/boyerm.xgp
+mkdir -p /XGP/jmc/let/brinkl.xgp
+/8/jmc/let/brinkl.xgp
+mkdir -p /XGP/jmc/let/brown.xgp
+/8/jmc/let/brown.xgp
+mkdir -p /XGP/jmc/let/brynne.xgp
+/8/jmc/let/brynne.xgp
+mkdir -p /XGP/jmc/let/buchan.xgp
+/8/jmc/let/buchan.xgp
+mkdir -p /XGP/jmc/let/buckle.xgp
+/8/jmc/let/buckle.xgp
+mkdir -p /XGP/jmc/let/bursta.xgp
+/8/jmc/let/bursta.xgp
+mkdir -p /XGP/jmc/let/b.xgp
+/8/jmc/let/b.xgp
+mkdir -p /XGP/jmc/let/byte.xgp
+/8/jmc/let/byte.xgp
+mkdir -p /XGP/jmc/let/caltec.xgp
+/8/jmc/let/caltec.xgp
+mkdir -p /XGP/jmc/let/campbe.xgp
+/8/jmc/let/campbe.xgp
+mkdir -p /XGP/jmc/let/carlo.xgp
+/8/jmc/let/carlo.xgp
+mkdir -p /XGP/jmc/let/carlso.xgp
+/8/jmc/let/carlso.xgp
+mkdir -p /XGP/jmc/let/carlst.xgp
+/8/jmc/let/carlst.xgp
+mkdir -p /XGP/jmc/let/carr.xgp
+/8/jmc/let/carr.xgp
+mkdir -p /XGP/jmc/let/cartwr.xgp
+/8/jmc/let/cartwr.xgp
+mkdir -p /XGP/jmc/let/case.xgp
+/8/jmc/let/case.xgp
+mkdir -p /XGP/jmc/let/cbcl.xgp
+/8/jmc/let/cbcl.xgp
+mkdir -p /XGP/jmc/let/ccs.xgp
+/8/jmc/let/ccs.xgp
+mkdir -p /XGP/jmc/let/chandr.xgp
+/8/jmc/let/chandr.xgp
+mkdir -p /XGP/jmc/let/chandy.xgp
+/8/jmc/let/chandy.xgp
+mkdir -p /XGP/jmc/let/chaney.xgp
+/8/jmc/let/chaney.xgp
+mkdir -p /XGP/jmc/let/cheath.xgp
+/8/jmc/let/cheath.xgp
+mkdir -p /XGP/jmc/let/chemem.xgp
+/8/jmc/let/chemem.xgp
+mkdir -p /XGP/jmc/let/cheney.xgp
+/8/jmc/let/cheney.xgp
+mkdir -p /XGP/jmc/let/chen.xgp
+/8/jmc/let/chen.xgp
+mkdir -p /XGP/jmc/let/chicag.xgp
+/8/jmc/let/chicag.xgp
+mkdir -p /XGP/jmc/let/chikva.xgp
+/8/jmc/let/chikva.xgp
+mkdir -p /XGP/jmc/let/ching.xgp
+/8/jmc/let/ching.xgp
+mkdir -p /XGP/jmc/let/choi.xgp
+/8/jmc/let/choi.xgp
+mkdir -p /XGP/jmc/let/chomsk.xgp
+/8/jmc/let/chomsk.xgp
+mkdir -p /XGP/jmc/let/chowdh.xgp
+/8/jmc/let/chowdh.xgp
+mkdir -p /XGP/jmc/let/chown.xgp
+/8/jmc/let/chown.xgp
+mkdir -p /XGP/jmc/let/christ.xgp
+/8/jmc/let/christ.xgp
+mkdir -p /XGP/jmc/let/chudno.xgp
+/8/jmc/let/chudno.xgp
+mkdir -p /XGP/jmc/let/chu.xgp
+/8/jmc/let/chu.xgp
+mkdir -p /XGP/jmc/let/circum.xgp
+/8/jmc/let/circum.xgp
+mkdir -p /XGP/jmc/let/cohen.xgp
+/8/jmc/let/cohen.xgp
+mkdir -p /XGP/jmc/let/colmer.xgp
+/8/jmc/let/colmer.xgp
+mkdir -p /XGP/jmc/let/commen.xgp
+/8/jmc/let/commen.xgp
+mkdir -p /XGP/jmc/let/comput.xgp
+/8/jmc/let/comput.xgp
+mkdir -p /XGP/jmc/let/concep.xgp
+/8/jmc/let/concep.xgp
+mkdir -p /XGP/jmc/let/coop.xgp
+/8/jmc/let/coop.xgp
+mkdir -p /XGP/jmc/let/corewa.xgp
+/8/jmc/let/corewa.xgp
+mkdir -p /XGP/jmc/let/culik.xgp
+/8/jmc/let/culik.xgp
+mkdir -p /XGP/jmc/let/c.xgp
+/8/jmc/let/c.xgp
+mkdir -p /XGP/jmc/let/daily.xgp
+/8/jmc/let/daily.xgp
+mkdir -p /XGP/jmc/let/darwin.xgp
+/8/jmc/let/darwin.xgp
+mkdir -p /XGP/jmc/let/datama.xgp
+/8/jmc/let/datama.xgp
+mkdir -p /XGP/jmc/let/davies.xgp
+/8/jmc/let/davies.xgp
+mkdir -p /XGP/jmc/let/davis.xgp
+/8/jmc/let/davis.xgp
+mkdir -p /XGP/jmc/let/dcl2.xgp
+/8/jmc/let/dcl2.xgp
+mkdir -p /XGP/jmc/let/dcl.xgp
+/8/jmc/let/dcl.xgp
+mkdir -p /XGP/jmc/let/dennet.xgp
+/8/jmc/let/dennet.xgp
+mkdir -p /XGP/jmc/let/derosa.xgp
+/8/jmc/let/derosa.xgp
+mkdir -p /XGP/jmc/let/dertou.xgp
+/8/jmc/let/dertou.xgp
+mkdir -p /XGP/jmc/let/dijkst.xgp
+/8/jmc/let/dijkst.xgp
+mkdir -p /XGP/jmc/let/dolbec.xgp
+/8/jmc/let/dolbec.xgp
+mkdir -p /XGP/jmc/let/donald.xgp
+/8/jmc/let/donald.xgp
+mkdir -p /XGP/jmc/let/doyle.xgp
+/8/jmc/let/doyle.xgp
+mkdir -p /XGP/jmc/let/dyson.xgp
+/8/jmc/let/dyson.xgp
+mkdir -p /XGP/jmc/let/earnes.xgp
+/8/jmc/let/earnes.xgp
+mkdir -p /XGP/jmc/let/eiserm.xgp
+/8/jmc/let/eiserm.xgp
+mkdir -p /XGP/jmc/let/elepha.xgp
+/8/jmc/let/elepha.xgp
+mkdir -p /XGP/jmc/let/elgot.xgp
+/8/jmc/let/elgot.xgp
+mkdir -p /XGP/jmc/let/energy.xgp
+/8/jmc/let/energy.xgp
+mkdir -p /XGP/jmc/let/engine.xgp
+/8/jmc/let/engine.xgp
+mkdir -p /XGP/jmc/let/erman.xgp
+/8/jmc/let/erman.xgp
+mkdir -p /XGP/jmc/let/ershov.xgp
+/8/jmc/let/ershov.xgp
+mkdir -p /XGP/jmc/let/estrin.xgp
+/8/jmc/let/estrin.xgp
+mkdir -p /XGP/jmc/let/exotic.xgp
+/8/jmc/let/exotic.xgp
+mkdir -p /XGP/jmc/let/expse2.xgp
+/8/jmc/let/expse2.xgp
+mkdir -p /XGP/jmc/let/fair.xgp
+/8/jmc/let/fair.xgp
+mkdir -p /XGP/jmc/let/farmwa.xgp
+/8/jmc/let/farmwa.xgp
+mkdir -p /XGP/jmc/let/fda.xgp
+/8/jmc/let/fda.xgp
+mkdir -p /XGP/jmc/let/feicht.xgp
+/8/jmc/let/feicht.xgp
+mkdir -p /XGP/jmc/let/fenaug.xgp
+/8/jmc/let/fenaug.xgp
+mkdir -p /XGP/jmc/let/fernba.xgp
+/8/jmc/let/fernba.xgp
+mkdir -p /XGP/jmc/let/filman.xgp
+/8/jmc/let/filman.xgp
+mkdir -p /XGP/jmc/let/finema.xgp
+/8/jmc/let/finema.xgp
+mkdir -p /XGP/jmc/let/fingle.xgp
+/8/jmc/let/fingle.xgp
+mkdir -p /XGP/jmc/let/foo.xgp
+/8/jmc/let/foo.xgp
+mkdir -p /XGP/jmc/let/fordha.xgp
+/8/jmc/let/fordha.xgp
+mkdir -p /XGP/jmc/let/frankl.xgp
+/8/jmc/let/frankl.xgp
+mkdir -p /XGP/jmc/let/fredki.xgp
+/8/jmc/let/fredki.xgp
+mkdir -p /XGP/jmc/let/frey.xgp
+/8/jmc/let/frey.xgp
+mkdir -p /XGP/jmc/let/friedm.xgp
+/8/jmc/let/friedm.xgp
+mkdir -p /XGP/jmc/let/fried.xgp
+/8/jmc/let/fried.xgp
+mkdir -p /XGP/jmc/let/f.xgp
+/8/jmc/let/f.xgp
+mkdir -p /XGP/jmc/let/gabrie.xgp
+/8/jmc/let/gabrie.xgp
+mkdir -p /XGP/jmc/let/galler.xgp
+/8/jmc/let/galler.xgp
+mkdir -p /XGP/jmc/let/gardne.xgp
+/8/jmc/let/gardne.xgp
+mkdir -p /XGP/jmc/let/garey.xgp
+/8/jmc/let/garey.xgp
+mkdir -p /XGP/jmc/let/gelfan.xgp
+/8/jmc/let/gelfan.xgp
+mkdir -p /XGP/jmc/let/gibaud.xgp
+/8/jmc/let/gibaud.xgp
+mkdir -p /XGP/jmc/let/gilmor.xgp
+/8/jmc/let/gilmor.xgp
+mkdir -p /XGP/jmc/let/gini.xgp
+/8/jmc/let/gini.xgp
+mkdir -p /XGP/jmc/let/ginzbu.xgp
+/8/jmc/let/ginzbu.xgp
+mkdir -p /XGP/jmc/let/goad.xgp
+/8/jmc/let/goad.xgp
+mkdir -p /XGP/jmc/let/golub.xgp
+/8/jmc/let/golub.xgp
+mkdir -p /XGP/jmc/let/gomory.xgp
+/8/jmc/let/gomory.xgp
+mkdir -p /XGP/jmc/let/goody.xgp
+/8/jmc/let/goody.xgp
+mkdir -p /XGP/jmc/let/gordon.xgp
+/8/jmc/let/gordon.xgp
+mkdir -p /XGP/jmc/let/gorin.xgp
+/8/jmc/let/gorin.xgp
+mkdir -p /XGP/jmc/let/graeve.xgp
+/8/jmc/let/graeve.xgp
+mkdir -p /XGP/jmc/let/grapev.xgp
+/8/jmc/let/grapev.xgp
+mkdir -p /XGP/jmc/let/griffi.xgp
+/8/jmc/let/griffi.xgp
+mkdir -p /XGP/jmc/let/g.xgp
+/8/jmc/let/g.xgp
+mkdir -p /XGP/jmc/let/hagen.xgp
+/8/jmc/let/hagen.xgp
+mkdir -p /XGP/jmc/let/hamilt.xgp
+/8/jmc/let/hamilt.xgp
+mkdir -p /XGP/jmc/let/hammer.xgp
+/8/jmc/let/hammer.xgp
+mkdir -p /XGP/jmc/let/harnad.xgp
+/8/jmc/let/harnad.xgp
+mkdir -p /XGP/jmc/let/harper.xgp
+/8/jmc/let/harper.xgp
+mkdir -p /XGP/jmc/let/haugel.xgp
+/8/jmc/let/haugel.xgp
+mkdir -p /XGP/jmc/let/hayes.xgp
+/8/jmc/let/hayes.xgp
+mkdir -p /XGP/jmc/let/hays.xgp
+/8/jmc/let/hays.xgp
+mkdir -p /XGP/jmc/let/head.xgp
+/8/jmc/let/head.xgp
+mkdir -p /XGP/jmc/let/heldma.xgp
+/8/jmc/let/heldma.xgp
+mkdir -p /XGP/jmc/let/hewitt.xgp
+/8/jmc/let/hewitt.xgp
+mkdir -p /XGP/jmc/let/hilts.xgp
+/8/jmc/let/hilts.xgp
+mkdir -p /XGP/jmc/let/hjerpp.xgp
+/8/jmc/let/hjerpp.xgp
+mkdir -p /XGP/jmc/let/hodgso.xgp
+/8/jmc/let/hodgso.xgp
+mkdir -p /XGP/jmc/let/hofsta.xgp
+/8/jmc/let/hofsta.xgp
+mkdir -p /XGP/jmc/let/hogan.xgp
+/8/jmc/let/hogan.xgp
+mkdir -p /XGP/jmc/let/holden.xgp
+/8/jmc/let/holden.xgp
+mkdir -p /XGP/jmc/let/holdre.xgp
+/8/jmc/let/holdre.xgp
+mkdir -p /XGP/jmc/let/homer.xgp
+/8/jmc/let/homer.xgp
+mkdir -p /XGP/jmc/let/honig.xgp
+/8/jmc/let/honig.xgp
+mkdir -p /XGP/jmc/let/hook.xgp
+/8/jmc/let/hook.xgp
+mkdir -p /XGP/jmc/let/hoover.xgp
+/8/jmc/let/hoover.xgp
+mkdir -p /XGP/jmc/let/hsu.xgp
+/8/jmc/let/hsu.xgp
+mkdir -p /XGP/jmc/let/hua.xgp
+/8/jmc/let/hua.xgp
+mkdir -p /XGP/jmc/let/hurley.xgp
+/8/jmc/let/hurley.xgp
+mkdir -p /XGP/jmc/let/hurwit.xgp
+/8/jmc/let/hurwit.xgp
+mkdir -p /XGP/jmc/let/ibm.xgp
+/8/jmc/let/ibm.xgp
+mkdir -p /XGP/jmc/let/iii.xgp
+/8/jmc/let/iii.xgp
+mkdir -p /XGP/jmc/let/ijcai.xgp
+/8/jmc/let/ijcai.xgp
+mkdir -p /XGP/jmc/let/indoor.xgp
+/8/jmc/let/indoor.xgp
+mkdir -p /XGP/jmc/let/ingerm.xgp
+/8/jmc/let/ingerm.xgp
+mkdir -p /XGP/jmc/let/intril.xgp
+/8/jmc/let/intril.xgp
+mkdir -p /XGP/jmc/let/ishii.xgp
+/8/jmc/let/ishii.xgp
+mkdir -p /XGP/jmc/let/ito.xgp
+/8/jmc/let/ito.xgp
+mkdir -p /XGP/jmc/let/i.xgp
+/8/jmc/let/i.xgp
+mkdir -p /XGP/jmc/let/jacobi.xgp
+/8/jmc/let/jacobi.xgp
+mkdir -p /XGP/jmc/let/japant.xgp
+/8/jmc/let/japant.xgp
+mkdir -p /XGP/jmc/let/jernak.xgp
+/8/jmc/let/jernak.xgp
+mkdir -p /XGP/jmc/let/joshi.xgp
+/8/jmc/let/joshi.xgp
+mkdir -p /XGP/jmc/let/journa.xgp
+/8/jmc/let/journa.xgp
+mkdir -p /XGP/jmc/let/juilla.xgp
+/8/jmc/let/juilla.xgp
+mkdir -p /XGP/jmc/let/justic.xgp
+/8/jmc/let/justic.xgp
+mkdir -p /XGP/jmc/let/kalino.xgp
+/8/jmc/let/kalino.xgp
+mkdir -p /XGP/jmc/let/kanade.xgp
+/8/jmc/let/kanade.xgp
+mkdir -p /XGP/jmc/let/kates.xgp
+/8/jmc/let/kates.xgp
+mkdir -p /XGP/jmc/let/kenned.xgp
+/8/jmc/let/kenned.xgp
+mkdir -p /XGP/jmc/let/keplin.xgp
+/8/jmc/let/keplin.xgp
+mkdir -p /XGP/jmc/let/kim.xgp
+/8/jmc/let/kim.xgp
+mkdir -p /XGP/jmc/let/kirkla.xgp
+/8/jmc/let/kirkla.xgp
+mkdir -p /XGP/jmc/let/kleinf.xgp
+/8/jmc/let/kleinf.xgp
+mkdir -p /XGP/jmc/let/knopof.xgp
+/8/jmc/let/knopof.xgp
+mkdir -p /XGP/jmc/let/know.xgp
+/8/jmc/let/know.xgp
+mkdir -p /XGP/jmc/let/kodak.xgp
+/8/jmc/let/kodak.xgp
+mkdir -p /XGP/jmc/let/kotov.xgp
+/8/jmc/let/kotov.xgp
+mkdir -p /XGP/jmc/let/kqed.xgp
+/8/jmc/let/kqed.xgp
+mkdir -p /XGP/jmc/let/kripke.xgp
+/8/jmc/let/kripke.xgp
+mkdir -p /XGP/jmc/let/kugel.xgp
+/8/jmc/let/kugel.xgp
+mkdir -p /XGP/jmc/let/kuliko.xgp
+/8/jmc/let/kuliko.xgp
+mkdir -p /XGP/jmc/let/kurgan.xgp
+/8/jmc/let/kurgan.xgp
+mkdir -p /XGP/jmc/let/kursun.xgp
+/8/jmc/let/kursun.xgp
+mkdir -p /XGP/jmc/let/kurtz.xgp
+/8/jmc/let/kurtz.xgp
+mkdir -p /XGP/jmc/let/k.xgp
+/8/jmc/let/k.xgp
+mkdir -p /XGP/jmc/let/lang.xgp
+/8/jmc/let/lang.xgp
+mkdir -p /XGP/jmc/let/latime.xgp
+/8/jmc/let/latime.xgp
+mkdir -p /XGP/jmc/let/lebowi.xgp
+/8/jmc/let/lebowi.xgp
+mkdir -p /XGP/jmc/let/ledin.xgp
+/8/jmc/let/ledin.xgp
+mkdir -p /XGP/jmc/let/lee.xgp
+/8/jmc/let/lee.xgp
+mkdir -p /XGP/jmc/let/lem.xgp
+/8/jmc/let/lem.xgp
+mkdir -p /XGP/jmc/let/leng.xgp
+/8/jmc/let/leng.xgp
+mkdir -p /XGP/jmc/let/leonti.xgp
+/8/jmc/let/leonti.xgp
+mkdir -p /XGP/jmc/let/let.xgp
+/8/jmc/let/let.xgp
+mkdir -p /XGP/jmc/let/levent.xgp
+/8/jmc/let/levent.xgp
+mkdir -p /XGP/jmc/let/levien.xgp
+/8/jmc/let/levien.xgp
+mkdir -p /XGP/jmc/let/levy.xgp
+/8/jmc/let/levy.xgp
+mkdir -p /XGP/jmc/let/libin.xgp
+/8/jmc/let/libin.xgp
+mkdir -p /XGP/jmc/let/liburd.xgp
+/8/jmc/let/liburd.xgp
+mkdir -p /XGP/jmc/let/lickli.xgp
+/8/jmc/let/lickli.xgp
+mkdir -p /XGP/jmc/let/lieber.xgp
+/8/jmc/let/lieber.xgp
+mkdir -p /XGP/jmc/let/lindze.xgp
+/8/jmc/let/lindze.xgp
+mkdir -p /XGP/jmc/let/lucas.xgp
+/8/jmc/let/lucas.xgp
+mkdir -p /XGP/jmc/let/luckha.xgp
+/8/jmc/let/luckha.xgp
+mkdir -p /XGP/jmc/let/luck.xgp
+/8/jmc/let/luck.xgp
+mkdir -p /XGP/jmc/let/lumels.xgp
+/8/jmc/let/lumels.xgp
+mkdir -p /XGP/jmc/let/lutz.xgp
+/8/jmc/let/lutz.xgp
+mkdir -p /XGP/jmc/let/l.xgp
+/8/jmc/let/l.xgp
+mkdir -p /XGP/jmc/let/macder.xgp
+/8/jmc/let/macder.xgp
+mkdir -p /XGP/jmc/let/malik.xgp
+/8/jmc/let/malik.xgp
+mkdir -p /XGP/jmc/let/manna.xgp
+/8/jmc/let/manna.xgp
+mkdir -p /XGP/jmc/let/manoug.xgp
+/8/jmc/let/manoug.xgp
+mkdir -p /XGP/jmc/let/marsto.xgp
+/8/jmc/let/marsto.xgp
+mkdir -p /XGP/jmc/let/martel.xgp
+/8/jmc/let/martel.xgp
+mkdir -p /XGP/jmc/let/massy.xgp
+/8/jmc/let/massy.xgp
+mkdir -p /XGP/jmc/let/ma.xgp
+/8/jmc/let/ma.xgp
+mkdir -p /XGP/jmc/let/mccart.xgp
+/8/jmc/let/mccart.xgp
+mkdir -p /XGP/jmc/let/mcderm.xgp
+/8/jmc/let/mcderm.xgp
+mkdir -p /XGP/jmc/let/meltze.xgp
+/8/jmc/let/meltze.xgp
+mkdir -p /XGP/jmc/let/mental.xgp
+/8/jmc/let/mental.xgp
+mkdir -p /XGP/jmc/let/michie.xgp
+/8/jmc/let/michie.xgp
+mkdir -p /XGP/jmc/let/miller.xgp
+/8/jmc/let/miller.xgp
+mkdir -p /XGP/jmc/let/milner.xgp
+/8/jmc/let/milner.xgp
+mkdir -p /XGP/jmc/let/minima.xgp
+/8/jmc/let/minima.xgp
+mkdir -p /XGP/jmc/let/minker.xgp
+/8/jmc/let/minker.xgp
+mkdir -p /XGP/jmc/let/mittma.xgp
+/8/jmc/let/mittma.xgp
+mkdir -p /XGP/jmc/let/mohan.xgp
+/8/jmc/let/mohan.xgp
+mkdir -p /XGP/jmc/let/moll.xgp
+/8/jmc/let/moll.xgp
+mkdir -p /XGP/jmc/let/monbec.xgp
+/8/jmc/let/monbec.xgp
+mkdir -p /XGP/jmc/let/montan.xgp
+/8/jmc/let/montan.xgp
+mkdir -p /XGP/jmc/let/monthl.xgp
+/8/jmc/let/monthl.xgp
+mkdir -p /XGP/jmc/let/moore.xgp
+/8/jmc/let/moore.xgp
+mkdir -p /XGP/jmc/let/morave.xgp
+/8/jmc/let/morave.xgp
+mkdir -p /XGP/jmc/let/moses.xgp
+/8/jmc/let/moses.xgp
+mkdir -p /XGP/jmc/let/mossig.xgp
+/8/jmc/let/mossig.xgp
+mkdir -p /XGP/jmc/let/muftic.xgp
+/8/jmc/let/muftic.xgp
+mkdir -p /XGP/jmc/let/murray.xgp
+/8/jmc/let/murray.xgp
+mkdir -p /XGP/jmc/let/m.xgp
+/8/jmc/let/m.xgp
+mkdir -p /XGP/jmc/let/nagel.xgp
+/8/jmc/let/nagel.xgp
+mkdir -p /XGP/jmc/let/nakata.xgp
+/8/jmc/let/nakata.xgp
+mkdir -p /XGP/jmc/let/nasir.xgp
+/8/jmc/let/nasir.xgp
+mkdir -p /XGP/jmc/let/nation.xgp
+/8/jmc/let/nation.xgp
+mkdir -p /XGP/jmc/let/naur.xgp
+/8/jmc/let/naur.xgp
+mkdir -p /XGP/jmc/let/neuhol.xgp
+/8/jmc/let/neuhol.xgp
+mkdir -p /XGP/jmc/let/newbor.xgp
+/8/jmc/let/newbor.xgp
+mkdir -p /XGP/jmc/let/newyor.xgp
+/8/jmc/let/newyor.xgp
+mkdir -p /XGP/jmc/let/niimi.xgp
+/8/jmc/let/niimi.xgp
+mkdir -p /XGP/jmc/let/nozaki.xgp
+/8/jmc/let/nozaki.xgp
+mkdir -p /XGP/jmc/let/nsf.xgp
+/8/jmc/let/nsf.xgp
+mkdir -p /XGP/jmc/let/n.xgp
+/8/jmc/let/n.xgp
+mkdir -p /XGP/jmc/let/nzaki.xgp
+/8/jmc/let/nzaki.xgp
+mkdir -p /XGP/jmc/let/okamot.xgp
+/8/jmc/let/okamot.xgp
+mkdir -p /XGP/jmc/let/oliver.xgp
+/8/jmc/let/oliver.xgp
+mkdir -p /XGP/jmc/let/oxford.xgp
+/8/jmc/let/oxford.xgp
+mkdir -p /XGP/jmc/let/pacifi.xgp
+/8/jmc/let/pacifi.xgp
+mkdir -p /XGP/jmc/let/packar.xgp
+/8/jmc/let/packar.xgp
+mkdir -p /XGP/jmc/let/pagell.xgp
+/8/jmc/let/pagell.xgp
+mkdir -p /XGP/jmc/let/partee.xgp
+/8/jmc/let/partee.xgp
+mkdir -p /XGP/jmc/let/pearl.xgp
+/8/jmc/let/pearl.xgp
+mkdir -p /XGP/jmc/let/penrod.xgp
+/8/jmc/let/penrod.xgp
+mkdir -p /XGP/jmc/let/perm.xgp
+/8/jmc/let/perm.xgp
+mkdir -p /XGP/jmc/let/perry.xgp
+/8/jmc/let/perry.xgp
+mkdir -p /XGP/jmc/let/petit.xgp
+/8/jmc/let/petit.xgp
+mkdir -p /XGP/jmc/let/physic.xgp
+/8/jmc/let/physic.xgp
+mkdir -p /XGP/jmc/let/pia.xgp
+/8/jmc/let/pia.xgp
+mkdir -p /XGP/jmc/let/play.xgp
+/8/jmc/let/play.xgp
+mkdir -p /XGP/jmc/let/plf.xgp
+/8/jmc/let/plf.xgp
+mkdir -p /XGP/jmc/let/pnueli.xgp
+/8/jmc/let/pnueli.xgp
+mkdir -p /XGP/jmc/let/pospel.xgp
+/8/jmc/let/pospel.xgp
+mkdir -p /XGP/jmc/let/pourne.xgp
+/8/jmc/let/pourne.xgp
+mkdir -p /XGP/jmc/let/pragne.xgp
+/8/jmc/let/pragne.xgp
+mkdir -p /XGP/jmc/let/pressb.xgp
+/8/jmc/let/pressb.xgp
+mkdir -p /XGP/jmc/let/prim.xgp
+/8/jmc/let/prim.xgp
+mkdir -p /XGP/jmc/let/pripst.xgp
+/8/jmc/let/pripst.xgp
+mkdir -p /XGP/jmc/let/psa.xgp
+/8/jmc/let/psa.xgp
+mkdir -p /XGP/jmc/let/psycho.xgp
+/8/jmc/let/psycho.xgp
+mkdir -p /XGP/jmc/let/public.xgp
+/8/jmc/let/public.xgp
+mkdir -p /XGP/jmc/let/putnam.xgp
+/8/jmc/let/putnam.xgp
+mkdir -p /XGP/jmc/let/pylysh.xgp
+/8/jmc/let/pylysh.xgp
+mkdir -p /XGP/jmc/let/quigle.xgp
+/8/jmc/let/quigle.xgp
+mkdir -p /XGP/jmc/let/ramsay.xgp
+/8/jmc/let/ramsay.xgp
+mkdir -p /XGP/jmc/let/rector.xgp
+/8/jmc/let/rector.xgp
+mkdir -p /XGP/jmc/let/regan.xgp
+/8/jmc/let/regan.xgp
+mkdir -p /XGP/jmc/let/reiter.xgp
+/8/jmc/let/reiter.xgp
+mkdir -p /XGP/jmc/let/resche.xgp
+/8/jmc/let/resche.xgp
+mkdir -p /XGP/jmc/let/reynol.xgp
+/8/jmc/let/reynol.xgp
+mkdir -p /XGP/jmc/let/ringle.xgp
+/8/jmc/let/ringle.xgp
+mkdir -p /XGP/jmc/let/robins.xgp
+/8/jmc/let/robins.xgp
+mkdir -p /XGP/jmc/let/rosenh.xgp
+/8/jmc/let/rosenh.xgp
+mkdir -p /XGP/jmc/let/rosens.xgp
+/8/jmc/let/rosens.xgp
+mkdir -p /XGP/jmc/let/roth.xgp
+/8/jmc/let/roth.xgp
+mkdir -p /XGP/jmc/let/royko.xgp
+/8/jmc/let/royko.xgp
+mkdir -p /XGP/jmc/let/rubin.xgp
+/8/jmc/let/rubin.xgp
+mkdir -p /XGP/jmc/let/russia.xgp
+/8/jmc/let/russia.xgp
+mkdir -p /XGP/jmc/let/ruybal.xgp
+/8/jmc/let/ruybal.xgp
+mkdir -p /XGP/jmc/let/sammet.xgp
+/8/jmc/let/sammet.xgp
+mkdir -p /XGP/jmc/let/sample.xgp
+/8/jmc/let/sample.xgp
+mkdir -p /XGP/jmc/let/sandew.xgp
+/8/jmc/let/sandew.xgp
+mkdir -p /XGP/jmc/let/satlow.xgp
+/8/jmc/let/satlow.xgp
+mkdir -p /XGP/jmc/let/sato.xgp
+/8/jmc/let/sato.xgp
+mkdir -p /XGP/jmc/let/scarle.xgp
+/8/jmc/let/scarle.xgp
+mkdir -p /XGP/jmc/let/scarl.xgp
+/8/jmc/let/scarl.xgp
+mkdir -p /XGP/jmc/let/schind.xgp
+/8/jmc/let/schind.xgp
+mkdir -p /XGP/jmc/let/schnit.xgp
+/8/jmc/let/schnit.xgp
+mkdir -p /XGP/jmc/let/schwar.xgp
+/8/jmc/let/schwar.xgp
+mkdir -p /XGP/jmc/let/scienc.xgp
+/8/jmc/let/scienc.xgp
+mkdir -p /XGP/jmc/let/scott.xgp
+/8/jmc/let/scott.xgp
+mkdir -p /XGP/jmc/let/sculli.xgp
+/8/jmc/let/sculli.xgp
+mkdir -p /XGP/jmc/let/se2.xgp
+/8/jmc/let/se2.xgp
+mkdir -p /XGP/jmc/let/servan.xgp
+/8/jmc/let/servan.xgp
+mkdir -p /XGP/jmc/let/shaw.xgp
+/8/jmc/let/shaw.xgp
+mkdir -p /XGP/jmc/let/sherma.xgp
+/8/jmc/let/sherma.xgp
+mkdir -p /XGP/jmc/let/shersh.xgp
+/8/jmc/let/shersh.xgp
+mkdir -p /XGP/jmc/let/shiner.xgp
+/8/jmc/let/shiner.xgp
+mkdir -p /XGP/jmc/let/shockl.xgp
+/8/jmc/let/shockl.xgp
+mkdir -p /XGP/jmc/let/siegle.xgp
+/8/jmc/let/siegle.xgp
+mkdir -p /XGP/jmc/let/siegma.xgp
+/8/jmc/let/siegma.xgp
+mkdir -p /XGP/jmc/let/sigma.xgp
+/8/jmc/let/sigma.xgp
+mkdir -p /XGP/jmc/let/silver.xgp
+/8/jmc/let/silver.xgp
+mkdir -p /XGP/jmc/let/skilli.xgp
+/8/jmc/let/skilli.xgp
+mkdir -p /XGP/jmc/let/sklans.xgp
+/8/jmc/let/sklans.xgp
+mkdir -p /XGP/jmc/let/sloman.xgp
+/8/jmc/let/sloman.xgp
+mkdir -p /XGP/jmc/let/slotni.xgp
+/8/jmc/let/slotni.xgp
+mkdir -p /XGP/jmc/let/smith.xgp
+/8/jmc/let/smith.xgp
+mkdir -p /XGP/jmc/let/soule.xgp
+/8/jmc/let/soule.xgp
+mkdir -p /XGP/jmc/let/spring.xgp
+/8/jmc/let/spring.xgp
+mkdir -p /XGP/jmc/let/sri.xgp
+/8/jmc/let/sri.xgp
+mkdir -p /XGP/jmc/let/stelma.xgp
+/8/jmc/let/stelma.xgp
+mkdir -p /XGP/jmc/let/sterli.xgp
+/8/jmc/let/sterli.xgp
+mkdir -p /XGP/jmc/let/stern.xgp
+/8/jmc/let/stern.xgp
+mkdir -p /XGP/jmc/let/stoft.xgp
+/8/jmc/let/stoft.xgp
+mkdir -p /XGP/jmc/let/stone.xgp
+/8/jmc/let/stone.xgp
+mkdir -p /XGP/jmc/let/stoyan.xgp
+/8/jmc/let/stoyan.xgp
+mkdir -p /XGP/jmc/let/street.xgp
+/8/jmc/let/street.xgp
+mkdir -p /XGP/jmc/let/suzman.xgp
+/8/jmc/let/suzman.xgp
+mkdir -p /XGP/jmc/let/sweene.xgp
+/8/jmc/let/sweene.xgp
+mkdir -p /XGP/jmc/let/swets.xgp
+/8/jmc/let/swets.xgp
+mkdir -p /XGP/jmc/let/s.xgp
+/8/jmc/let/s.xgp
+mkdir -p /XGP/jmc/let/tagner.xgp
+/8/jmc/let/tagner.xgp
+mkdir -p /XGP/jmc/let/takasu.xgp
+/8/jmc/let/takasu.xgp
+mkdir -p /XGP/jmc/let/takeuc.xgp
+/8/jmc/let/takeuc.xgp
+mkdir -p /XGP/jmc/let/talcot.xgp
+/8/jmc/let/talcot.xgp
+mkdir -p /XGP/jmc/let/tang.xgp
+/8/jmc/let/tang.xgp
+mkdir -p /XGP/jmc/let/taugne.xgp
+/8/jmc/let/taugne.xgp
+mkdir -p /XGP/jmc/let/teller.xgp
+/8/jmc/let/teller.xgp
+mkdir -p /XGP/jmc/let/tesar.xgp
+/8/jmc/let/tesar.xgp
+mkdir -p /XGP/jmc/let/textor.xgp
+/8/jmc/let/textor.xgp
+mkdir -p /XGP/jmc/let/thesis.xgp
+/8/jmc/let/thesis.xgp
+mkdir -p /XGP/jmc/let/thomas.xgp
+/8/jmc/let/thomas.xgp
+mkdir -p /XGP/jmc/let/thomps.xgp
+/8/jmc/let/thomps.xgp
+mkdir -p /XGP/jmc/let/timest.xgp
+/8/jmc/let/timest.xgp
+mkdir -p /XGP/jmc/let/times.xgp
+/8/jmc/let/times.xgp
+mkdir -p /XGP/jmc/let/todoro.xgp
+/8/jmc/let/todoro.xgp
+mkdir -p /XGP/jmc/let/torda.xgp
+/8/jmc/let/torda.xgp
+mkdir -p /XGP/jmc/let/trimbl.xgp
+/8/jmc/let/trimbl.xgp
+mkdir -p /XGP/jmc/let/trojan.xgp
+/8/jmc/let/trojan.xgp
+mkdir -p /XGP/jmc/let/tuan.xgp
+/8/jmc/let/tuan.xgp
+mkdir -p /XGP/jmc/let/t.xgp
+/8/jmc/let/t.xgp
+mkdir -p /XGP/jmc/let/u.xgp
+/8/jmc/let/u.xgp
+mkdir -p /XGP/jmc/let/von.xgp
+/8/jmc/let/von.xgp
+mkdir -p /XGP/jmc/let/walle.xgp
+/8/jmc/let/walle.xgp
+mkdir -p /XGP/jmc/let/ween.xgp
+/8/jmc/let/ween.xgp
+mkdir -p /XGP/jmc/let/weiner.xgp
+/8/jmc/let/weiner.xgp
+mkdir -p /XGP/jmc/let/weinga.xgp
+/8/jmc/let/weinga.xgp
+mkdir -p /XGP/jmc/let/weizen.xgp
+/8/jmc/let/weizen.xgp
+mkdir -p /XGP/jmc/let/white.xgp
+/8/jmc/let/white.xgp
+mkdir -p /XGP/jmc/let/wilkin.xgp
+/8/jmc/let/wilkin.xgp
+mkdir -p /XGP/jmc/let/willia.xgp
+/8/jmc/let/willia.xgp
+mkdir -p /XGP/jmc/let/wilson.xgp
+/8/jmc/let/wilson.xgp
+mkdir -p /XGP/jmc/let/wolfra.xgp
+/8/jmc/let/wolfra.xgp
+mkdir -p /XGP/jmc/let/wong.xgp
+/8/jmc/let/wong.xgp
+mkdir -p /XGP/jmc/let/w.xgp
+/8/jmc/let/w.xgp
+mkdir -p /XGP/jmc/let/x.xgp
+/8/jmc/let/x.xgp
+mkdir -p /XGP/jmc/let/yamada.xgp
+/8/jmc/let/yamada.xgp
+mkdir -p /XGP/jmc/let/yoneza.xgp
+/8/jmc/let/yoneza.xgp
+mkdir -p /XGP/jmc/let/yost.xgp
+/8/jmc/let/yost.xgp
+mkdir -p /XGP/jmc/let/yue.xgp
+/8/jmc/let/yue.xgp
+mkdir -p /XGP/jmc/let/zebros.xgp
+/8/jmc/let/zebros.xgp
+mkdir -p /XGP/jmc/let/z.xgp
+/8/jmc/let/z.xgp
+mkdir -p /XGP/jmc/lit/christ.xgp
+/8/jmc/lit/christ.xgp
+mkdir -p /XGP/jmc/lit/docdil.xgp
+/8/jmc/lit/docdil.xgp
+mkdir -p /XGP/jmc/lit/foo.xgp
+/8/jmc/lit/foo.xgp
+mkdir -p /XGP/jmc/lit/mao.xgp
+/8/jmc/lit/mao.xgp
+mkdir -p /XGP/jmc/lit/poem.xgp
+/8/jmc/lit/poem.xgp
+mkdir -p /XGP/jmc/lit/sabbat.xgp
+/8/jmc/lit/sabbat.xgp
+mkdir -p /XGP/jmc/lit/sloan.xgp
+/8/jmc/lit/sloan.xgp
+mkdir -p /XGP/jmc/lot/audit.xgp
+/8/jmc/lot/audit.xgp
+mkdir -p /XGP/jmc/lot/blurb.xgp
+/8/jmc/lot/blurb.xgp
+mkdir -p /XGP/jmc/lot/board.xgp
+/8/jmc/lot/board.xgp
+mkdir -p /XGP/jmc/lot/budget.xgp
+/8/jmc/lot/budget.xgp
+mkdir -p /XGP/jmc/lot/config.xgp
+/8/jmc/lot/config.xgp
+mkdir -p /XGP/jmc/lot/frankl.xgp
+/8/jmc/lot/frankl.xgp
+mkdir -p /XGP/jmc/lot/gorin3.xgp
+/8/jmc/lot/gorin3.xgp
+mkdir -p /XGP/jmc/lot/leng.xgp
+/8/jmc/lot/leng.xgp
+mkdir -p /XGP/jmc/lot/lots.xgp
+/8/jmc/lot/lots.xgp
+mkdir -p /XGP/jmc/lot/miller.xgp
+/8/jmc/lot/miller.xgp
+mkdir -p /XGP/jmc/lot/shaw.xgp
+/8/jmc/lot/shaw.xgp
+mkdir -p /XGP/jmc/pat/biojmc.xgp
+/8/jmc/pat/biojmc.xgp
+mkdir -p /XGP/jmc/pat/jmc.xgp
+/8/jmc/pat/jmc.xgp
+mkdir -p /XGP/jmc/pub/foo.xgp
+/8/jmc/pub/foo.xgp
+mkdir -p /XGP/jmc/pub/weizen.xgp
+/8/jmc/pub/weizen.xgp
+mkdir -p /XGP/jmc/s76/commun.xgp
+/8/jmc/s76/commun.xgp
+mkdir -p /XGP/jmc/s76/concep.xgp
+/8/jmc/s76/concep.xgp
+mkdir -p /XGP/jmc/s76/contex.xgp
+/8/jmc/s76/contex.xgp
+mkdir -p /XGP/jmc/s76/datama.xgp
+/8/jmc/s76/datama.xgp
+mkdir -p /XGP/jmc/s76/extens.xgp
+/8/jmc/s76/extens.xgp
+mkdir -p /XGP/jmc/s76/hoter.xgp
+/8/jmc/s76/hoter.xgp
+mkdir -p /XGP/jmc/s76/kahn.xgp
+/8/jmc/s76/kahn.xgp
+mkdir -p /XGP/jmc/s76/mental.xgp
+/8/jmc/s76/mental.xgp
+mkdir -p /XGP/jmc/s76/mrhug.xgp
+/8/jmc/s76/mrhug.xgp
+mkdir -p /XGP/jmc/s76/proble.xgp
+/8/jmc/s76/proble.xgp
+mkdir -p /XGP/jmc/s76/quine.xgp
+/8/jmc/s76/quine.xgp
+mkdir -p /XGP/jmc/s76/sense.xgp
+/8/jmc/s76/sense.xgp
+mkdir -p /XGP/jmc/s76/weizen.xgp
+/8/jmc/s76/weizen.xgp
+mkdir -p /XGP/jmc/s77/aiqual.xgp
+/8/jmc/s77/aiqual.xgp
+mkdir -p /XGP/jmc/s77/corewa.xgp
+/8/jmc/s77/corewa.xgp
+mkdir -p /XGP/jmc/s77/deal.xgp
+/8/jmc/s77/deal.xgp
+mkdir -p /XGP/jmc/s77/final.xgp
+/8/jmc/s77/final.xgp
+mkdir -p /XGP/jmc/s77/galaxy.xgp
+/8/jmc/s77/galaxy.xgp
+mkdir -p /XGP/jmc/s77/ijcai.xgp
+/8/jmc/s77/ijcai.xgp
+mkdir -p /XGP/jmc/s77/intell.xgp
+/8/jmc/s77/intell.xgp
+mkdir -p /XGP/jmc/s77/minima.xgp
+/8/jmc/s77/minima.xgp
+mkdir -p /XGP/jmc/s77/model.xgp
+/8/jmc/s77/model.xgp
+mkdir -p /XGP/jmc/s77/nlcpi.xgp
+/8/jmc/s77/nlcpi.xgp
+mkdir -p /XGP/jmc/s77/proble.xgp
+/8/jmc/s77/proble.xgp
+mkdir -p /XGP/jmc/s77/samefr.xgp
+/8/jmc/s77/samefr.xgp
+mkdir -p /XGP/jmc/s77/term.xgp
+/8/jmc/s77/term.xgp
+mkdir -p /XGP/jmc/s77/theory.xgp
+/8/jmc/s77/theory.xgp
+mkdir -p /XGP/jmc/s78/backus.xgp
+/8/jmc/s78/backus.xgp
+mkdir -p /XGP/jmc/s78/correc.xgp
+/8/jmc/s78/correc.xgp
+mkdir -p /XGP/jmc/s78/crash.xgp
+/8/jmc/s78/crash.xgp
+mkdir -p /XGP/jmc/s78/lisp2.xgp
+/8/jmc/s78/lisp2.xgp
+mkdir -p /XGP/jmc/s78/lisp.xgp
+/8/jmc/s78/lisp.xgp
+mkdir -p /XGP/jmc/s78/modal.xgp
+/8/jmc/s78/modal.xgp
+mkdir -p /XGP/jmc/s78/panel.xgp
+/8/jmc/s78/panel.xgp
+mkdir -p /XGP/jmc/s78/quasar.xgp
+/8/jmc/s78/quasar.xgp
+mkdir -p /XGP/jmc/s78/sunday.xgp
+/8/jmc/s78/sunday.xgp
+mkdir -p /XGP/jmc/s78/tour.xgp
+/8/jmc/s78/tour.xgp
+mkdir -p /XGP/jmc/s78/verifi.xgp
+/8/jmc/s78/verifi.xgp
+mkdir -p /XGP/jmc/s79/cbcl.xgp
+/8/jmc/s79/cbcl.xgp
+mkdir -p /XGP/jmc/s79/circum.xgp
+/8/jmc/s79/circum.xgp
+mkdir -p /XGP/jmc/s79/elepha.xgp
+/8/jmc/s79/elepha.xgp
+mkdir -p /XGP/jmc/s79/emma.xgp
+/8/jmc/s79/emma.xgp
+mkdir -p /XGP/jmc/s79/locke.xgp
+/8/jmc/s79/locke.xgp
+mkdir -p /XGP/jmc/s79/meta.xgp
+/8/jmc/s79/meta.xgp
+mkdir -p /XGP/jmc/s79/minima.xgp
+/8/jmc/s79/minima.xgp
+mkdir -p /XGP/jmc/s79/testim.xgp
+/8/jmc/s79/testim.xgp
+mkdir -p /XGP/jmc/s80/circum.xgp
+/8/jmc/s80/circum.xgp
+mkdir -p /XGP/jmc/s80/conser.xgp
+/8/jmc/s80/conser.xgp
+mkdir -p /XGP/jmc/s80/doyle.xgp
+/8/jmc/s80/doyle.xgp
+mkdir -p /XGP/jmc/s80/elepha.xgp
+/8/jmc/s80/elepha.xgp
+mkdir -p /XGP/jmc/s80/petiti.xgp
+/8/jmc/s80/petiti.xgp
+mkdir -p /XGP/jmc/s81/fr81.xgp
+/8/jmc/s81/fr81.xgp
+mkdir -p /XGP/jmc/s81/tim81.xgp
+/8/jmc/s81/tim81.xgp
+mkdir -p /XGP/jmc/s83/counte.xgp
+/8/jmc/s83/counte.xgp
+mkdir -p /XGP/jmc/s84/circum.xgp
+/8/jmc/s84/circum.xgp
+mkdir -p /XGP/jmc/s84/nsf.xgp
+/8/jmc/s84/nsf.xgp
+mkdir -p /XGP/jmc/sen/legisl.xgp
+/8/jmc/sen/legisl.xgp
+mkdir -p /XGP/jmc/sen/mailin.xgp
+/8/jmc/sen/mailin.xgp
+mkdir -p /XGP/jmc/sen/mortem.xgp
+/8/jmc/sen/mortem.xgp
+mkdir -p /XGP/jmc/sen/quote.xgp
+/8/jmc/sen/quote.xgp
+mkdir -p /XGP/jmc/sen/russia.xgp
+/8/jmc/sen/russia.xgp
+mkdir -p /XGP/jmc/sen/sense.xgp
+/8/jmc/sen/sense.xgp
+mkdir -p /XGP/jmc/sen/statem.xgp
+/8/jmc/sen/statem.xgp
+mkdir -p /XGP/jmc/sen/sundes.xgp
+/8/jmc/sen/sundes.xgp
+mkdir -p /XGP/jmc/sen/techno.xgp
+/8/jmc/sen/techno.xgp
+mkdir -p /XGP/jmc/w76/blob.xgp
+/8/jmc/w76/blob.xgp
+mkdir -p /XGP/jmc/w76/depend.xgp
+/8/jmc/w76/depend.xgp
+mkdir -p /XGP/jmc/w76/hoter.xgp
+/8/jmc/w76/hoter.xgp
+mkdir -p /XGP/jmc/w76/know.xgp
+/8/jmc/w76/know.xgp
+mkdir -p /XGP/jmc/w76/search.xgp
+/8/jmc/w76/search.xgp
+mkdir -p /XGP/jmc/w76/sense.xgp
+/8/jmc/w76/sense.xgp
+mkdir -p /XGP/jmc/w76/weizen.xgp
+/8/jmc/w76/weizen.xgp
+mkdir -p /XGP/jmc/w77/ai.xgp
+/8/jmc/w77/ai.xgp
+mkdir -p /XGP/jmc/w77/bell.xgp
+/8/jmc/w77/bell.xgp
+mkdir -p /XGP/jmc/w77/condit.xgp
+/8/jmc/w77/condit.xgp
+mkdir -p /XGP/jmc/w77/denico.xgp
+/8/jmc/w77/denico.xgp
+mkdir -p /XGP/jmc/w77/derive.xgp
+/8/jmc/w77/derive.xgp
+mkdir -p /XGP/jmc/w77/dialne.xgp
+/8/jmc/w77/dialne.xgp
+mkdir -p /XGP/jmc/w77/exotic.xgp
+/8/jmc/w77/exotic.xgp
+mkdir -p /XGP/jmc/w77/first.xgp
+/8/jmc/w77/first.xgp
+mkdir -p /XGP/jmc/w77/ijcai.xgp
+/8/jmc/w77/ijcai.xgp
+mkdir -p /XGP/jmc/w77/lsplug.xgp
+/8/jmc/w77/lsplug.xgp
+mkdir -p /XGP/jmc/w77/recurs.xgp
+/8/jmc/w77/recurs.xgp
+mkdir -p /XGP/jmc/w77/repres.xgp
+/8/jmc/w77/repres.xgp
+mkdir -p /XGP/jmc/w77/samefr.xgp
+/8/jmc/w77/samefr.xgp
+mkdir -p /XGP/jmc/w77/sato.xgp
+/8/jmc/w77/sato.xgp
+mkdir -p /XGP/jmc/w77/study.xgp
+/8/jmc/w77/study.xgp
+mkdir -p /XGP/jmc/w77/suppes.xgp
+/8/jmc/w77/suppes.xgp
+mkdir -p /XGP/jmc/w77/theory.xgp
+/8/jmc/w77/theory.xgp
+mkdir -p /XGP/jmc/w77/vyssot.xgp
+/8/jmc/w77/vyssot.xgp
+mkdir -p /XGP/jmc/w78/artifi.xgp
+/8/jmc/w78/artifi.xgp
+mkdir -p /XGP/jmc/w78/chroma.xgp
+/8/jmc/w78/chroma.xgp
+mkdir -p /XGP/jmc/w78/circum.xgp
+/8/jmc/w78/circum.xgp
+mkdir -p /XGP/jmc/w78/haugel.xgp
+/8/jmc/w78/haugel.xgp
+mkdir -p /XGP/jmc/w78/honig.xgp
+/8/jmc/w78/honig.xgp
+mkdir -p /XGP/jmc/w78/manna.xgp
+/8/jmc/w78/manna.xgp
+mkdir -p /XGP/jmc/w78/person.xgp
+/8/jmc/w78/person.xgp
+mkdir -p /XGP/jmc/w78/puzzle.xgp
+/8/jmc/w78/puzzle.xgp
+mkdir -p /XGP/jmc/w78/recurs.xgp
+/8/jmc/w78/recurs.xgp
+mkdir -p /XGP/jmc/w78/set.xgp
+/8/jmc/w78/set.xgp
+mkdir -p /XGP/jmc/w79/aim1.xgp
+/8/jmc/w79/aim1.xgp
+mkdir -p /XGP/jmc/w79/aiphil.xgp
+/8/jmc/w79/aiphil.xgp
+mkdir -p /XGP/jmc/w79/chemem.xgp
+/8/jmc/w79/chemem.xgp
+mkdir -p /XGP/jmc/w79/elepha.xgp
+/8/jmc/w79/elepha.xgp
+mkdir -p /XGP/jmc/w79/first.xgp
+/8/jmc/w79/first.xgp
+mkdir -p /XGP/jmc/w79/gardne.xgp
+/8/jmc/w79/gardne.xgp
+mkdir -p /XGP/jmc/w79/goedel.xgp
+/8/jmc/w79/goedel.xgp
+mkdir -p /XGP/jmc/w79/kyoto.xgp
+/8/jmc/w79/kyoto.xgp
+mkdir -p /XGP/jmc/w79/proble.xgp
+/8/jmc/w79/proble.xgp
+mkdir -p /XGP/jmc/w79/renew.xgp
+/8/jmc/w79/renew.xgp
+mkdir -p /XGP/jmc/w80/barwis.xgp
+/8/jmc/w80/barwis.xgp
+mkdir -p /XGP/jmc/w80/circum.xgp
+/8/jmc/w80/circum.xgp
+mkdir -p /XGP/jmc/w80/crash.xgp
+/8/jmc/w80/crash.xgp
+mkdir -p /XGP/jmc/w80/energy.xgp
+/8/jmc/w80/energy.xgp
+mkdir -p /XGP/jmc/w80/frame.xgp
+/8/jmc/w80/frame.xgp
+mkdir -p /XGP/jmc/w80/hook.xgp
+/8/jmc/w80/hook.xgp
+mkdir -p /XGP/jmc/w80/israel.xgp
+/8/jmc/w80/israel.xgp
+mkdir -p /XGP/jmc/w80/mental.xgp
+/8/jmc/w80/mental.xgp
+mkdir -p /XGP/jmc/w80/office.xgp
+/8/jmc/w80/office.xgp
+mkdir -p /XGP/jmc/w80/proble.xgp
+/8/jmc/w80/proble.xgp
+mkdir -p /XGP/jmc/w80/renew.xgp
+/8/jmc/w80/renew.xgp
+mkdir -p /XGP/jmc/w80/searle.xgp
+/8/jmc/w80/searle.xgp
+mkdir -p /XGP/jmc/w80/talk1.xgp
+/8/jmc/w80/talk1.xgp
+mkdir -p /XGP/jmc/w80/tecsoc.xgp
+/8/jmc/w80/tecsoc.xgp
+mkdir -p /XGP/jmc/w81/baz.xgp
+/8/jmc/w81/baz.xgp
+mkdir -p /XGP/jmc/w81/mental.xgp
+/8/jmc/w81/mental.xgp
+mkdir -p /XGP/jmc/w82/exotic.xgp
+/8/jmc/w82/exotic.xgp
+mkdir -p /XGP/jmc/w83/chicag.xgp
+/8/jmc/w83/chicag.xgp
+mkdir -p /XGP/jmc/w83/tough.xgp
+/8/jmc/w83/tough.xgp
+mkdir -p /XGP/jmc/w84/cs258.xgp
+/8/jmc/w84/cs258.xgp
+mkdir -p /XGP/jmc/w84/elepha.xgp
+/8/jmc/w84/elepha.xgp
+mkdir -p /XGP/jmc/w84/labor.xgp
+/8/jmc/w84/labor.xgp
+mkdir -p /XGP/jmc/w84/nsf.xgp
+/8/jmc/w84/nsf.xgp
+mkdir -p /XGP/jmc/w84/opinio.xgp
+/8/jmc/w84/opinio.xgp
+mkdir -p /XGP/jmc/w84/rpg.xgp
+/8/jmc/w84/rpg.xgp
+mkdir -p /XGP/jmc/w84/syntax.xgp
+/8/jmc/w84/syntax.xgp
+mkdir -p /XGP/jmc/w86/ebos.xgp
+/8/jmc/w86/ebos.xgp
+mkdir -p /XGP/jmc/w86/hannov.xgp
+/8/jmc/w86/hannov.xgp
+mkdir -p /XGP/jmc/w86/wong.xgp
+/8/jmc/w86/wong.xgp
+mkdir -p /XGP/jmc/w86/work.xgp
+/8/jmc/w86/work.xgp
